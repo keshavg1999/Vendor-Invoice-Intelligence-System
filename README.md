@@ -4,7 +4,7 @@
 
 An end-to-end machine learning system designed to support finance and procurement teams with **vendor invoice intelligence**. The project combines freight cost prediction with invoice risk classification to help identify abnormal invoices and improve financial controls.
 
----
+----
 
 ## 📌 Table of Contents
 
